@@ -1,6 +1,6 @@
 package main
 
-import "github.com/lucabockmann/go_boilerplate/api"
+import "github.com/lucabockmann/cliblog/api"
 
 func main() {
 	api.ConnectDatabase()

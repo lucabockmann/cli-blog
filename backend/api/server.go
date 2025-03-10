@@ -5,7 +5,7 @@ import (
 
 	_ "github.com/go-sql-driver/mysql"
 	"github.com/jmoiron/sqlx"
-	"github.com/lucabockmann/go_boilerplate/helper"
+	"github.com/lucabockmann/cliblog/helper"
 )
 
 var db *sqlx.DB

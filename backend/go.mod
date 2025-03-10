@@ -1,4 +1,4 @@
-module github.com/lucabockmann/go_boilerplate
+module github.com/lucabockmann/cliblog
 
 go 1.23.5
 
